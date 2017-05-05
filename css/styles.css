@@ -3,18 +3,20 @@
   background-color: #F0E68C;
 }
 body {
-  background-color: ;
-  color: ;
+  background-color: grey;
 }
 .sidebar {
   float: left;
-  background-color: #00FA9A;
-  height: ;
   color: white;
-}
-#ping-pong {
-  color: ;
 }
 .btn {
   color: black;
+}
+.col-md-3 {
+  background-color: #00FA9A;
+  color: white;
+  height: auto;
+}
+.col-md-9 {
+  background-color: aquamarine;
 }
